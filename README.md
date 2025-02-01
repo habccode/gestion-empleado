@@ -71,5 +71,7 @@ Bono: 30% sobre el salario base. Método sobrescrito: calcularSalarioFinal()
 <b> Objetivo </b>: Crear instancias de cada tipo de empleado (Desarrollador, Diseñador y Gerente), y mostrar su información incluyendo el salario final calculado.
 
 
+## Diagrama de Gestion de empleados.
+
 ![gestionempleado drawio](https://github.com/user-attachments/assets/5ada2d1b-1009-4bd5-9338-f69d05eb1770)
 
